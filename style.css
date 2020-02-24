@@ -24,12 +24,13 @@ nav{
 }
 
 .logo{
-    height: 100px;
+    height: 92px;
+    width: 272px;
+    padding-top: 109px;
 }
 
 section{
     text-align:center;
-    margin-top: 100px;
 }
 
 .search-area{
@@ -41,7 +42,7 @@ section{
     width: 600px;
     height: 35px;
     border-radius: 30px;
-    border: 1px solid #F3F3F3;
+    border: 1px solid lightgray;
     margin: 30px;
 }
 
@@ -92,6 +93,9 @@ section{
     margin-bottom: 20px;
 }
 
+.offer-area{
+    font-size: 12px;
+}
 .offer-link{
     margin-left: 5px;
     text-decoration: none;
